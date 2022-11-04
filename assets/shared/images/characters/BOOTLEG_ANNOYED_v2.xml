@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BOOTLEG_ANNOYED_V2.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+  <SubTexture name="Dumped_Down0000" x="337" y="1821"  width="336" height="296" frameX="-3" frameY="-1" frameWidth="345" frameHeight="297"/>
+  <SubTexture name="Dumped_Down0001" x="655" y="888"  width="336" height="296" frameX="-3" frameY="-1" frameWidth="345" frameHeight="297"/>
+  <SubTexture name="Dumped_Down0002" x="1409" y="592"  width="324" height="296" frameX="-9" frameY="-1" frameWidth="345" frameHeight="297"/>
+  <SubTexture name="Dumped_Down0003" x="673" y="1821"  width="324" height="296" frameX="-9" frameY="-1" frameWidth="345" frameHeight="297"/>
+  <SubTexture name="Dumped_Down0004" x="1733" y="592"  width="311" height="296" frameX="-15" frameY="-1" frameWidth="345" frameHeight="297"/>
+  <SubTexture name="Dumped_Down0005" x="676" y="1184"  width="311" height="296" frameX="-15" frameY="-1" frameWidth="345" frameHeight="297"/>
+  <SubTexture name="Dumped_Down0006" x="991" y="888"  width="309" height="296" frameX="-15" frameY="-1" frameWidth="345" frameHeight="297"/>
+  <SubTexture name="Dumped_Down0007" x="676" y="1480"  width="309" height="296" frameX="-15" frameY="-1" frameWidth="345" frameHeight="297"/>
+  <SubTexture name="Dumped_Down0008" x="991" y="888"  width="309" height="296" frameX="-15" frameY="-1" frameWidth="345" frameHeight="297"/>
+  <SubTexture name="Dumped_Down0009" x="676" y="1480"  width="309" height="296" frameX="-15" frameY="-1" frameWidth="345" frameHeight="297"/>
+  <SubTexture name="Dumped_Idle0000" x="987" y="1184"  width="295" height="296" frameX="-2" frameY="-1" frameWidth="301" frameHeight="297"/>
+  <SubTexture name="Dumped_Idle0001" x="1300" y="888"  width="295" height="296" frameX="-2" frameY="-1" frameWidth="301" frameHeight="297"/>
+  <SubTexture name="Dumped_Idle0002" x="985" y="1480"  width="295" height="296" frameX="-2" frameY="-1" frameWidth="301" frameHeight="297"/>
+  <SubTexture name="Dumped_Idle0003" x="1282" y="1184"  width="295" height="296" frameX="-2" frameY="-1" frameWidth="301" frameHeight="297"/>
+  <SubTexture name="Dumped_Idle0004" x="1595" y="888"  width="295" height="296" frameX="-2" frameY="-1" frameWidth="301" frameHeight="297"/>
+  <SubTexture name="Dumped_Left0000" x="997" y="1776"  width="295" height="296" frameX="-2" frameY="-1" frameWidth="301" frameHeight="297"/>
+  <SubTexture name="Dumped_Left0001" x="1577" y="1184"  width="295" height="296" frameX="-2" frameY="-1" frameWidth="301" frameHeight="297"/>
+  <SubTexture name="Dumped_Left0002" x="1890" y="888"  width="295" height="296" frameX="-2" frameY="-1" frameWidth="301" frameHeight="297"/>
+  <SubTexture name="Dumped_Left0003" x="1280" y="1480"  width="295" height="296" frameX="-2" frameY="-1" frameWidth="301" frameHeight="297"/>
+  <SubTexture name="Dumped_Left0004" x="1872" y="1184"  width="295" height="296" frameX="-2" frameY="-1" frameWidth="301" frameHeight="297"/>
+  <SubTexture name="Dumped_Left0005" x="1292" y="1776"  width="295" height="296" frameX="-2" frameY="-1" frameWidth="301" frameHeight="297"/>
+  <SubTexture name="Dumped_Left0006" x="1575" y="1480"  width="295" height="296" frameX="-2" frameY="-1" frameWidth="301" frameHeight="297"/>
+  <SubTexture name="Dumped_Left0007" x="1587" y="1776"  width="295" height="296" frameX="-2" frameY="-1" frameWidth="301" frameHeight="297"/>
+  <SubTexture name="Dumped_Left0008" x="1587" y="1776"  width="295" height="296" frameX="-2" frameY="-1" frameWidth="301" frameHeight="297"/>
+  <SubTexture name="Dumped_Left0009" x="1870" y="1480"  width="295" height="296" frameX="-2" frameY="-1" frameWidth="301" frameHeight="297"/>
+  <SubTexture name="Dumped_Right0000" x="308" y="0"  width="378" height="296" frameX="-2" frameY="-1" frameWidth="380" frameHeight="297"/>
+  <SubTexture name="Dumped_Right0001" x="686" y="0"  width="378" height="296" frameX="-2" frameY="-1" frameWidth="380" frameHeight="297"/>
+  <SubTexture name="Dumped_Right0002" x="1033" y="592"  width="376" height="296" frameX="-2" frameY="-1" frameWidth="380" frameHeight="297"/>
+  <SubTexture name="Dumped_Right0003" x="1779" y="296"  width="376" height="296" frameX="-2" frameY="-1" frameWidth="380" frameHeight="297"/>
+  <SubTexture name="Dumped_Right0004" x="1064" y="0"  width="378" height="296" frameX="-2" frameY="-1" frameWidth="380" frameHeight="297"/>
+  <SubTexture name="Dumped_Right0005" x="645" y="296"  width="378" height="296" frameX="-2" frameY="-1" frameWidth="380" frameHeight="297"/>
+  <SubTexture name="Dumped_Right0006" x="1442" y="0"  width="378" height="296" frameX="-2" frameY="-1" frameWidth="380" frameHeight="297"/>
+  <SubTexture name="Dumped_Right0007" x="1023" y="296"  width="378" height="296" frameX="-2" frameY="-1" frameWidth="380" frameHeight="297"/>
+  <SubTexture name="Dumped_Right0008" x="1820" y="0"  width="378" height="296" frameX="-2" frameY="-1" frameWidth="380" frameHeight="297"/>
+  <SubTexture name="Dumped_Right0009" x="655" y="592"  width="378" height="296" frameX="-2" frameY="-1" frameWidth="380" frameHeight="297"/>
+  <SubTexture name="Dumped_Right0010" x="1401" y="296"  width="378" height="296" frameX="-2" frameY="-1" frameWidth="380" frameHeight="297"/>
+  <SubTexture name="Dumped_Right0011" x="1820" y="0"  width="378" height="296" frameX="-2" frameY="-1" frameWidth="380" frameHeight="297"/>
+  <SubTexture name="Dumped_Up0000" x="0" y="0"  width="308" height="390" frameX="-14" frameY="-0" frameWidth="339" frameHeight="390"/>
+  <SubTexture name="Dumped_Up0001" x="0" y="390"  width="308" height="390" frameX="-14" frameY="-0" frameWidth="339" frameHeight="390"/>
+  <SubTexture name="Dumped_Up0002" x="0" y="780"  width="316" height="387" frameX="-11" frameY="-3" frameWidth="339" frameHeight="390"/>
+  <SubTexture name="Dumped_Up0003" x="0" y="1167"  width="316" height="387" frameX="-11" frameY="-3" frameWidth="339" frameHeight="390"/>
+  <SubTexture name="Dumped_Up0004" x="308" y="296"  width="337" height="382" frameX="-1" frameY="-8" frameWidth="339" frameHeight="390"/>
+  <SubTexture name="Dumped_Up0005" x="0" y="1554"  width="337" height="382" frameX="-1" frameY="-8" frameWidth="339" frameHeight="390"/>
+  <SubTexture name="Dumped_Up0006" x="316" y="678"  width="339" height="381" frameX="-0" frameY="-9" frameWidth="339" frameHeight="390"/>
+  <SubTexture name="Dumped_Up0007" x="316" y="1059"  width="339" height="381" frameX="-0" frameY="-9" frameWidth="339" frameHeight="390"/>
+  <SubTexture name="Dumped_Up0008" x="337" y="1440"  width="339" height="381" frameX="-0" frameY="-9" frameWidth="339" frameHeight="390"/>
+  <SubTexture name="Dumped_Up0009" x="316" y="678"  width="339" height="381" frameX="-0" frameY="-9" frameWidth="339" frameHeight="390"/>
+</TextureAtlas>
